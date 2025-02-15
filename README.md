@@ -1,5 +1,8 @@
 # TConstructAspects.zs
 This file adds research points for Thaumcraft 4 from Tinkers' Construct. 
+![tinkers construct aspects](https://github.com/user-attachments/assets/5807e662-1cc1-4d21-a31f-ce8fe07f0df6)
+
+
 
 ## Instalisation.
 
